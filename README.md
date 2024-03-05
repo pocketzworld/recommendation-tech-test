@@ -33,7 +33,7 @@ Description of the tables:
 
 ### **Connecting to Redshift**
 
-To connect to Redshift, you can use Python with libraries like **`psycopg2`** , **`sqlalchemy`** or `**redshift_connector`**  by providing connection details in the code. 
+To connect to Redshift, you can use Python with libraries like **`psycopg2`** , **`sqlalchemy`** or **`*redshift_connector`**  by providing connection details in the code. 
 
 Alternatively, tools like SQL Workbench/J, DBeaver or pgAdmin offer graphical interfaces for easier access. Simply input the provided Connection URL, PORT, username, and password into the chosen method's configuration. 
 
