@@ -6,9 +6,9 @@ This user has an access to:
 
 - database: `**analytics-interview-dataset**`
 - schema: `**search-recommendations-system-task**`which contains following tables:
-    - `**user_info**`
-    - `**video_games**`
-    - `**user_games_interaction**`
+    - **`user_info`**
+    - **`video_games`**
+    - **`user_games_interaction`**
 
 Description of the tables:
 
