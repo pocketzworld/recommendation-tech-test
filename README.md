@@ -4,8 +4,8 @@ We have prepared dataset for this technical challenge and stored it in Redshift.
 
 This user has an access to:
 
-- database: `**analytics-interview-dataset**`
-- schema: `**search-recommendations-system-task**`which contains following tables:
+- database: **`analytics-interview-dataset`**
+- schema: **`search-recommendations-system-task`** which contains following tables:
     - **`user_info`**
     - **`video_games`**
     - **`user_games_interaction`**
@@ -24,7 +24,7 @@ Description of the tables:
     - Publisher (publisher of the game)
     - ReleaseYear (year the game was released)
     - Platform (platform the game is available on, e.g., PC, PlayStation, Xbox, etc.)
-3. **User-Game Interactions (`user_games_interaction`**)
+3. **User-Game Interactions (`user_games_interaction`)**
     - UserID (references the UserID from the Users table)
     - GameID (references the GameID from the Video Games table)
     - Rating (rating given by the user for the game, on a scale of 1 to 5)
